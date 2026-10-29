@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix 골든벨 건강 상식 시험지_3_추가요청",
+  "description": "중학교 시험지 스타일의 유쾌하고 유익한 10문항 건강 상식 OX 퀴즈",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
