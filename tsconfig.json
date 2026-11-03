@@ -1,5 +1,6 @@
 {
   "name":"mamama",
+  "age":99,
   "compilerOptions": {
     "target": "ES2022",
     "experimentalDecorators": true,
